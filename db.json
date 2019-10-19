@@ -2,44 +2,13 @@
   {
     "login": "tomtt",
     "id": 31,
-    "node_id": "MDQ6VXNlcjMx",
     "avatar_url": "https://avatars2.githubusercontent.com/u/31?v=4",
     "site_admin": false
   },
   {
     "login": "railsjitsu",
     "id": 32,
-    "node_id": "MDQ6VXNlcjMy",
     "avatar_url": "https://avatars2.githubusercontent.com/u/32?v=4",
-    "site_admin": false
-  },
-  {
-    "login": "nitay",
-    "id": 34,
-    "node_id": "MDQ6VXNlcjM0",
-    "avatar_url": "https://avatars2.githubusercontent.com/u/34?v=4",
-    "type": "User",
-    "site_admin": false
-  },
-  {
-    "login": "kevwil",
-    "id": 35,
-    "node_id": "MDQ6VXNlcjM1",
-    "avatar_url": "https://avatars2.githubusercontent.com/u/35?v=4",
-    "site_admin": false
-  },
-  {
-    "login": "KirinDave",
-    "id": 36,
-    "node_id": "MDQ6VXNlcjM2",
-    "avatar_url": "https://avatars2.githubusercontent.com/u/36?v=4",
-    "site_admin": false
-  },
-  {
-    "login": "jamesgolick",
-    "id": 37,
-    "node_id": "MDQ6VXNlcjM3",
-    "avatar_url": "https://avatars2.githubusercontent.com/u/37?v=4",
     "site_admin": false
   }
 ]
